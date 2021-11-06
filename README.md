@@ -26,7 +26,11 @@ Use `play` or the alias `p`
 
 Additionally, the commands inherited from the [discord-bot-template](https://github.com/roedebaron/microservice-discord-bot-template) project.
 
-## Remarks
+### Remarks
+
+
+> TODO: 
+> - Explain cache
 
 
 
