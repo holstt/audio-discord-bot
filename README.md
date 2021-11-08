@@ -12,7 +12,13 @@
   <img src="https://img.shields.io/badge/IDE-VS2019-purple" alt="ide" style="max-width:100%;">
 </p>
 
-Dockerized Discord audio bot with flexible file search using memory cache.
+Dockerized Discord audio bot with flexible file search using a dynamic memory cache.
+
+## Features
+- Search functionality such that users are not required to specify the full sound name
+- Support for having a sound name that evaluates to picking a random sound from a specific folder 
+- Help command showing all available sounds
+- Memory cache of all sounds and sound names such that I/O is minimized. Updates on file changes.
 
 ## Commands
 
@@ -30,12 +36,7 @@ Additionally, the commands inherited from the [discord-bot-template](https://git
 
 
 > TODO: 
-> - Explain cache
-
-
-
-
-
+> - Explain cache in detail
 
 ### Running the bot
 
