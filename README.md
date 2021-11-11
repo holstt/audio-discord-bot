@@ -1,6 +1,6 @@
 <p align="center">
   <img width="100" src="https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-Circle-768x768.png">  
-  <img width="100" src="https://o.remove.bg/downloads/8c5cefbb-85d7-432f-b40a-bd602ecd0fd4/12-126102_music-wave-png-audio-wave-icon-png-transparent-removebg-preview.png">
+  <img width="100" src="logo_music_wave.png">
 </p>
 
 <h1 align="center">Audio Discord Bot</h1>
